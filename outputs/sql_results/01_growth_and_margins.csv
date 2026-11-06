@@ -1,0 +1,21 @@
+company,fiscal_year,revenue,revenue_yoy_pct,ebitda_margin_pct,margin_change_pp,pat_margin_pct
+Dr Lal PathLabs,FY22,2087.0,,26.9,,16.8
+Dr Lal PathLabs,FY23,2017.0,-3.4,24.3,-2.6,11.9
+Dr Lal PathLabs,FY24,2227.0,10.4,27.3,3.1,16.3
+Dr Lal PathLabs,FY25,2461.0,10.5,28.4,1.0,20.0
+Dr Lal PathLabs,FY26,2763.0,12.3,28.3,-0.0,18.5
+Metropolis Healthcare,FY22,1228.0,,28.3,,17.5
+Metropolis Healthcare,FY23,1148.0,-6.5,25.5,-2.8,12.5
+Metropolis Healthcare,FY24,1208.0,5.2,23.8,-1.7,10.6
+Metropolis Healthcare,FY25,1331.0,10.2,23.1,-0.7,11.0
+Metropolis Healthcare,FY26,1646.0,23.7,24.7,1.5,11.6
+Thyrocare Technologies,FY22,589.0,,40.1,,29.9
+Thyrocare Technologies,FY23,527.0,-10.5,23.3,-16.7,12.1
+Thyrocare Technologies,FY24,572.0,8.5,24.5,1.1,12.1
+Thyrocare Technologies,FY25,687.0,20.1,27.7,3.2,13.2
+Thyrocare Technologies,FY26,829.0,20.7,31.7,4.1,19.7
+Vijaya Diagnostic Centre,FY22,462.0,,44.2,,24.0
+Vijaya Diagnostic Centre,FY23,459.0,-0.6,39.7,-4.5,18.5
+Vijaya Diagnostic Centre,FY24,548.0,19.4,40.3,0.7,21.9
+Vijaya Diagnostic Centre,FY25,681.0,24.3,40.1,-0.2,21.1
+Vijaya Diagnostic Centre,FY26,814.0,19.5,41.4,1.3,21.3
